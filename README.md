@@ -58,7 +58,7 @@ Because the MQ2 sensor draws significant current and the ESP32 is sensitive to s
 4.  **Important:** Click anywhere on the webpage once to unlock the browser's Web Audio API for the siren functionality.
 
 ## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is [GPL-3.0 license](LICENSE).
 
 *** 
 
